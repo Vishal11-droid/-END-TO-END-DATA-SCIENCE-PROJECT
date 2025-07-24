@@ -66,6 +66,9 @@ A Flask application was created to serve predictions over HTTP. The application 
 API Testing
 Using Postman or a command‑line HTTP client, sample requests were sent to the running API. A typical interaction involves submitting a JSON payload such as {"features":[5.1,3.5,1.4,0.2]} and receiving a JSON response indicating the predicted Iris species index. Successful responses demonstrate that the API seamlessly integrates the preprocessing and model inference steps.
 
+API response
+<img width="1483" height="762" alt="Image" src="https://github.com/user-attachments/assets/9b16b2c4-723d-4d5c-af3c-b705422c42c2" />
+
 Logging and Error Handling
 Basic logging statements record incoming requests and predictions, along with timestamps for traceability. Error handlers validate payload structure and return informative HTTP status codes in case of malformed input. These measures enhance reliability and ease debugging in deployment scenarios.
 
