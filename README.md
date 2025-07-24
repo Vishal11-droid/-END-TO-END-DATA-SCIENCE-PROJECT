@@ -88,13 +88,13 @@ This end‑to‑end project integrates data processing, model training, artifact
 
 
 ##
-OUTPUT
+
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/346c25d7-4419-4c11-9d9f-3d66c84866e3" />
 
 <img width="755" height="288" alt="Image" src="https://github.com/user-attachments/assets/28700dcb-331d-4f92-9d69-04c8765cfa41" />
 
-
+output:
 <img width="1483" height="762" alt="Image" src="https://github.com/user-attachments/assets/9b16b2c4-723d-4d5c-af3c-b705422c42c2" />
 
 ##
